@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Chris Bon"]
   spec.email         = ["chrisbon315@gmail.com"]
 
-  spec.summary       = %q{TODO: To sissify your words.}
-  spec.description   = %q{TODO: Sissify yourself.}
+  spec.summary       = %q{To sissify your words.}
+  spec.description   = %q{Sissify yourself.}
   spec.homepage      = "https://github.com/chris-bon/sissify"
   spec.license       = "MIT"
 
