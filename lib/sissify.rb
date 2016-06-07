@@ -1,9 +1,9 @@
 require "sissify/version"
 
-module Sissifier
+module Sissify
   class Sissy
-    def sissify string
-      `say Like, oh my god, #{string}!`
+    def sissify
+      `say Like, oh my god, that cheesecake went straight to my thighs!`
     end
   end
 end
